@@ -1,3 +1,6 @@
+https://github.com/arabold/serverless-react-boilerplate/blob/typescript/serverless.yml
+https://www.serverless.com/blog/react-js-on-aws-lambda
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

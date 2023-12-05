@@ -1,0 +1,23 @@
+org: football
+app: football
+service: backend
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: eu-west-2
+
+functions:
+  serve:
+    # Any web request regardless of path or method will be handled by a single Lambda function
+    handler: handler.serve
+    events:
+      - http:
+          path: /
+          method: any
+          cors: true
+      - http:
+          path: /{any+}
+          method: any
+          cors: true
