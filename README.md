@@ -1,3 +1,7 @@
+https://github.com/aws-samples/amazon-cloudfront-secure-static-site
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/getting-started-secure-static-website-cloudformation-template.html
+https://repost.aws/knowledge-center/api-gateway-s3-website-proxy
+https://github.com/serverless/examples/tree/v3/aws-node-serve-dynamic-html-via-http-endpoint
 https://github.com/arabold/serverless-react-boilerplate/blob/typescript/serverless.yml
 https://www.serverless.com/blog/react-js-on-aws-lambda
 

@@ -1,6 +1,5 @@
 import {renderToString} from "react-dom/server";
 import App from "./App";
-import { renderToString } from "react-dom/server";
 import html from "./ssrHtml";
 
 /**
